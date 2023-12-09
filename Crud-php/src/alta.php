@@ -68,7 +68,6 @@ try {
     echo "Error de conexión: " . $e->getMessage();
 }
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
